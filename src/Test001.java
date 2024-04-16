@@ -4,7 +4,6 @@ public class Test001 {
 	public Test001() {
 		// 処理
 		// テスト11111
-		// 処理222222
 	};
 
 }
